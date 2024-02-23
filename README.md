@@ -8,7 +8,7 @@
 # Launchpad: Profile README
 
 _Say hello to your community._
-
+Hello There
 
 <!-- 
   <<< Author notes: Start of the course >>> 
